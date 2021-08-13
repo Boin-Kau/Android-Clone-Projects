@@ -8,7 +8,7 @@ android {
     buildToolsVersion "31.0.0"
 
     defaultConfig {
-        applicationId "com.example.coupang_eats_clone"
+        applicationId "com.example.android_kotlin_template_new"
         minSdk 24
         targetSdk 30
         versionCode 1
@@ -30,7 +30,6 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-
 }
 
 dependencies {
